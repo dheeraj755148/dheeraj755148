@@ -1,7 +1,6 @@
 # Hi there 👋 
 ## Myself Dheeraj, an introvert trying to break the shell.
 
-<img src="cover.png" />
 
 
 
