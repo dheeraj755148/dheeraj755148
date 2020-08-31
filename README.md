@@ -1,5 +1,8 @@
 # Hi there 👋 
-## Myself Dheeraj, an introvert trying to break the shell:rocket:	  <br /> ![Shuttle Up!](cover.png)
+## Myself Dheeraj, an introvert trying to break the shell:rocket:	
+<img src="cover.png" />
+
+
 
 
 ## Coding 	:computer:
