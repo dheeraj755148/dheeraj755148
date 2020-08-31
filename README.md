@@ -1,7 +1,7 @@
 # Hi there 👋 
 ## Myself Dheeraj, an introvert trying to break the shell.
 
-![space](cover.png)
+![cover](https://user-images.githubusercontent.com/61353080/91749962-ec205e00-ebdf-11ea-85d1-7af95ee90f24.png)
 
 
 
