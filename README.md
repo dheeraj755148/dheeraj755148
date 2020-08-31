@@ -12,7 +12,7 @@
 | CSS        | PHP      |
 | JavaScript   |PhpMyAdmin        |
 
-[![Dheeraj's github stats](https://github-readme-stats.vercel.app/api?username=dheeraj755148)](https://github.com/anuraghazra/github-readme-stats)
+![Dheeraj's github stats](https://github-readme-stats.vercel.app/api?username=dheeraj755148&show_icons=true&theme=dracula)
 
 ## Hobbies 	:adult:
 * Cooking :cook:
