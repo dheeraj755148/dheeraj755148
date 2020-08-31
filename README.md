@@ -12,6 +12,8 @@
 | CSS        | PHP      |
 | JavaScript   |PhpMyAdmin        |
 
+[![Dheeraj's github stats](https://github-readme-stats.vercel.app/api?username=dheeraj755148)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Hobbies 	:adult:
 * Cooking :cook:
 * Reading Space books :green_book:
