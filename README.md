@@ -1,7 +1,7 @@
 # Hi there 👋 
 ## Myself Dheeraj, an introvert trying to break the shell.
 
-![space](cover.png)
+![space](/cover.png)
 
 
 
