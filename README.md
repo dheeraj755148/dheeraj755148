@@ -11,6 +11,7 @@
 |   HTML    | Python  :snake:   | Figma :black_nib:  |
 | CSS        | PHP      |
 | JavaScript   |PhpMyAdmin        |
+| React   |CI4        |
 
 ![Dheeraj's github stats](https://github-readme-stats.vercel.app/api?username=dheeraj755148&show_icons=true&theme=dracula)
 
